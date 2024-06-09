@@ -3,11 +3,6 @@
 
 # Final Project OOP Personal Finance Management System
 
-## Table of contents
-
-- [Introduction](#introduction)
-- [Code](#code)
-- [Documentation](#documentation)
 
 
 ## Introduction
