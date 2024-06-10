@@ -17,5 +17,5 @@ to access the code, download the code and run LoginWindow.java
 
 This project has been documented in a report and a video demonstrating how the program functions:
 1. PDF Report: https://drive.google.com/file/d/1T80Hrm3jYdKHlTzAFGsOz1zRbiJrJ6_m/view?usp=sharing 
-2. Poster : https://drive.google.com/file/d/1T80Hrm3jYdKHlTzAFGsOz1zRbiJrJ6_m/view?usp=sharing
-3. Class Diagram: https://drive.google.com/file/d/1T80Hrm3jYdKHlTzAFGsOz1zRbiJrJ6_m/view?usp=sharing
+2. Poster :(https://drive.google.com/drive/folders/1J5nctLeekAhQRvjxqFnu2bZyG2HTiSU7?usp=drive_link)
+3. Class Diagram: (https://drive.google.com/drive/folders/1J5nctLeekAhQRvjxqFnu2bZyG2HTiSU7?usp=drive_link)
